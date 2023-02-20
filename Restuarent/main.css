@@ -1,3 +1,15 @@
+.navbar{
+    background-color:coral;
+}
+ .nav-item a:hover{
+    color: blue;
+
+}
+
+
+
+
+
 .heading{
     color:brown;
 }
