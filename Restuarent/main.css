@@ -1,3 +1,7 @@
+
+
+
+
 .navbar{
     background-color:coral;
 }
@@ -21,12 +25,30 @@
     text-align: center;
 }
 
+
+
+/*about section*/
+.section-header{
+
+    background-color:coral;
+}
+.call-us
+{
+
+background-color: red;
+color: white;
+
+}
+h5,p,li{
+    color: blue;
+}
 .card {
-    background-color: palevioletred;
+    background-color:coral;
 }
 .card-header{
-    background-color: red;
+    background-color: blue;
 }
+
 
 
 
