@@ -43,10 +43,23 @@ h5,p,li{
     color: blue;
 }
 .card {
-    background-color:coral;
+    background-color:red;
 }
 .card-header{
     background-color: blue;
+}
+.card-title{
+    color: white;
+}
+.card:hover{
+    color: red;
+}
+.card:hover{
+
+    box-shadow: 0 16px 32px 0 ;
+}
+.card-text{
+    color: black;
 }
 
 
