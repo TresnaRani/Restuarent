@@ -63,6 +63,25 @@ h5,p,li{
 }
 
 
+/*menu*/
+
+.nav-item{
+    color:red;
+}
+.tab-header{
+   color: blue;
+}
+.tab-header:hover{
+    color: red;
+}
+  
+.col-lg-3:hover{
+    color: aqua;
+
+ }
+
+
+
 
 
 @media (min-width: 768px) {
