@@ -5,11 +5,23 @@
 .navbar{
     background-color:coral;
 }
- .nav-item a:hover{
+ .nav-link:hover{
     color: blue;
 
 }
+.book{
+    background-color: blue;
+    border-radius: 5rem;
+}
+.nav:hover {
+    color: blue;
+}
 
+.col-lg-9 a:hover{
+    background-color: rebeccapurple;
+ 
+
+}
 
 
 
@@ -103,8 +115,39 @@ h5,p,li{
    background-color: coral;
  }
 
+
+  /*book-a-table */
  .book-a-table{
     margin-top: 40px;
+ }
+
+ button{
+    background-color:red;
+ }
+
+
+ .contact{
+    margin-top: 40px;
+ }
+
+
+   /*footere */
+
+ #footer{
+    background-color: cadetblue;
+ }
+ .footer:hover{
+   color:red;
+ }
+ .footer{
+    color: white;
+ }
+ 
+ .fa-brands {
+    font-size: 1.5rem;
+ }
+ .link{
+    color:yellow;
  }
 
 
