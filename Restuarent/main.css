@@ -76,9 +76,29 @@ h5,p,li{
 }
   
 .col-lg-3:hover{
-    color: aqua;
+    color: red;
 
  }
+
+
+ /*event section */
+ .event{
+
+    background-color: coral;
+    color: red;
+ }
+ .text{
+    color: blue;
+ }
+
+ 
+ /*chefs  section */
+ .chefs{
+
+   margin-top: 40px;
+   background-color: coral;
+ }
+
 
 
 
