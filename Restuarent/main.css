@@ -90,6 +90,10 @@ h5,p,li{
  .text{
     color: blue;
  }
+ .img-fluid{
+    height: 300px;
+    width: 300px;
+ }
 
  
  /*chefs  section */
@@ -97,6 +101,10 @@ h5,p,li{
 
    margin-top: 40px;
    background-color: coral;
+ }
+
+ .book-a-table{
+    margin-top: 40px;
  }
 
 
